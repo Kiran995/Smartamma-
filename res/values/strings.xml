@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">first fragments</string>
+    <string name="menu_settings">skdjfojs</string>
+    <string name="viewpager_title">dajojmfosm</string>
+    <string name="activity_tabhost_title">Activity with FragmentTabHost</string>
+    <string name="activity_title_tabhost_layout">FragmentTabHost In Xml</string>
+    <string name="activity_title_tabhost_as_ui">FragmentTabHost as Ui</string>
+    <string name="tabhost_layout_description">aoidjoimcoaijsdofij.</string>
+
+    <string-array name="nesting_types">
+        <item>kfdojsofldo </item>
+        <item>okodsok0a9sifdkpokp</item>
+        <item>Fragment with FragmentTabHost as Ui</item>
+        <item>Activity with FragmentTabHost</item>
+    </string-array>
+
+</resources>
